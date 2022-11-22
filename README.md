@@ -31,3 +31,5 @@
 >  - [x] GitHub
 >  - [ ] GitLab
 >  - [ ] Bitbucket
+
+**Виконав**
